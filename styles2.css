@@ -72,7 +72,7 @@
 p
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20pt;
+    font-size: 14pt;
     color: rgb(97, 92, 92);
 }
 
@@ -85,11 +85,21 @@ p
     background: white;
 }
 
-.container {
-    background: tomato;
-}
+
 
 .visualizationpic {
     width: 150px;
     margin-left: -000px;
     margin-top: 00px;
+}
+
+.leadin {
+  color: rgb(30, 182, 182);
+  bold
+}
+
+.comparison_titles {
+  color: rgb(30, 182, 182);
+  padding-left: 100px;
+}
+
