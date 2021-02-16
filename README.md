@@ -1,1 +1,1 @@
-# jgriffin1314.github.io
+# Web Design Homework - Web Visualization Dashboard (Latitude)
